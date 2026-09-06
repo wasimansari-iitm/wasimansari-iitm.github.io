@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-06T14:43:58.804881+00:00",
+  "lastUpdated": "2026-09-06T19:50:52.056639+00:00",
   "status": "live_synced",
   "kpis": {
     "totalVisitors30D": "15",
@@ -13,19 +13,14 @@
   "periods": {
     "7": {
       "kpis": {
-        "totalVisitors": "6",
-        "avgSessionDuration": "10m 45s",
-        "avgSessionDurationSec": 645,
-        "interactiveDemos": "12",
-        "totalViews": "32",
-        "totalSessions": "15"
+        "totalVisitors": "5",
+        "avgSessionDuration": "2m 44s",
+        "avgSessionDurationSec": 164,
+        "interactiveDemos": "9",
+        "totalViews": "16",
+        "totalSessions": "13"
       },
       "trajectory": [
-        {
-          "label": "Aug 30",
-          "visitors": 2,
-          "avgDuration": "41m 56s"
-        },
         {
           "label": "Aug 31",
           "visitors": 2,
